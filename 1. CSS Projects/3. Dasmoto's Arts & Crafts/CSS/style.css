@@ -1,0 +1,50 @@
+#main_title {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    vertical-align: middle;
+    background-image: url("Resources/pattern.jpeg");
+
+}
+
+
+
+#brush{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+    
+}
+#frame{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+#paint{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+    
+}
+
+
+#dollar_blue{
+    font-family: Helvetica ;
+    font-weight: bold ;
+    color: blue;
+
+}
+
+
+
+
+
+
